@@ -16,5 +16,6 @@ int main()
     }
 
     std::cout << "The length of the string is: " << cont << std::endl;
+    system("PAUSE");
     return 0;
 }
